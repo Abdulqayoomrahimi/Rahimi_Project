@@ -7,5 +7,8 @@ public class MalekAmiree {
         System.out.println("malek fahd amiree");
 
         // how r u Mudaser
+
+        // how r u abdul
+
     }
 }
